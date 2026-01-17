@@ -1,0 +1,1 @@
+[![Gradle CI]([https://github.com/<username>/<repo>/actions/workflows/gradle.yml/badge.svg)](https://github.com/<username>/<repo>/actions/workflows/gradle.yml](https://github.com/AlexLeon16/aqa-api-ci/actions/runs/21094796686/job/60670799972))
